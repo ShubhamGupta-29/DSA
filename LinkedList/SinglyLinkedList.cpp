@@ -225,7 +225,7 @@ do{
         break;
 
         case 5:
-        cout<<"Enter key and data to update node\n";
+        cout<<"Enter key and data to Update node\n";
         cin>>key1;
         cin>>data1;
         s.updateNodeByKey(key1,data1);
